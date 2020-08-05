@@ -4,7 +4,7 @@
 ### I'm a Full-Stack Developer | Java Developer | ML-GEEK | Researcher | Teacher !! 
 
 <hr/>
-                     ✨    <strong> MY GitHub Profile <strong>    ✨ 
+   <pre><marquee>                  ✨    <strong> MY GitHub Profile <strong>    ✨   </marquee>      </pre>
 <br/>
   
 - 🔭 I’m currently working on <a href="https://www.youtube.com/playlist?list=PLhvdldYcnZMkQXBwIQqNQWPxVM792O-FO">Java Zero 2 Hero Course</a>
@@ -16,7 +16,7 @@
 - ⚡ Fun fact: Love Swimming , Fitness-Freak 
 
 <hr/>
-## Connect with Me :
+### Connect with Me :
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
