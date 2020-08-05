@@ -4,8 +4,8 @@
 ### <marquee>I'm a Full-Stack Developer | Java Developer | ML-GEEK | Researcher | Teacher !! </marquee>
 
 <hr/>
-   <pre><marquee>                  ✨    <strong> MY GitHub Profile <strong>    ✨   </marquee>      </pre>
-<br/>
+   <pre>              ✨    ### MY GitHub Profile   ✨        </pre>
+<hr/>
   
 - 🔭 I’m currently working on [Java Zero 2 Hero Course][website]
 - 🌱 I’m currently learning EveryThing 😆
@@ -87,4 +87,4 @@
 [jsplaylist]: #
 [cssplaylist]: #
 [reactplaylist]: #
-api/top-langs?username=shivtech11
+
