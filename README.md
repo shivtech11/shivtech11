@@ -7,7 +7,7 @@
    <pre><marquee>                  ✨    <strong> MY GitHub Profile <strong>    ✨   </marquee>      </pre>
 <br/>
   
-- 🔭 I’m currently working on <a href="https://www.youtube.com/playlist?list=PLhvdldYcnZMkQXBwIQqNQWPxVM792O-FO">Java Zero 2 Hero Course</a>
+- 🔭 I’m currently working on Java Zero 2 Hero Course[website]
 - 🌱 I’m currently learning EveryThing 😆
 - 👯 I’m looking to collaborate on with other content creators.
 - 🥅 2020 Goal: MAKE own community on YouTube.
@@ -53,11 +53,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
-- [There's more to CONSOLE than .log( ) | Things you didn't know console could do!!](https://www.youtube.com/watch?v=_-bHhEGcDiQ)
-- [Simple React.js User Login Authentication | Auth0](https://www.youtube.com/watch?v=MqczHS3Z2bc)
-- [Top 10 VS Code Updates You Don't Know About!! (July 2020)](https://www.youtube.com/watch?v=WHBQ1szkhtI)
-- [localStorage Dark/Light Mode Theme Toggle (CSS/JavaScript) | UI Design](https://www.youtube.com/watch?v=_raOFZAYXD4)
+- [YouTubbe New Videos](https://www.youtube.com/channel/UC2EF2l4DhSG3PVBXVyQhHfA/videos)
+- [Special Vide0](#)
+- [Simple React.js App](#)
+- [Java Tutorial For Beginners](#)
+- [Cmd Commands | Tips | Tricks](#)
 <!-- YOUTUBE:END -->
 
 ---
@@ -75,10 +75,10 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
-[website]: https//codingaliens.com
+[website]: http://codingaliens.com
 [twitter]: https://twitter.com/codingaliens
 [youtube]: https://www.youtube.com/channel/UC2EF2l4DhSG3PVBXVyQhHfA/playlists
-[instagram]: https://instagram.com/shiv16085
+[instagram]: #
 [linkedin]: #
 [webdevplaylist]: #
 [jsplaylist]: #
