@@ -1,11 +1,11 @@
 ### Hlo there,This is the SHIVam SHARMA - <a href="http://codingaliens.com">CodingAliens </a>👋
 
 
-### <marquee>I'm a Full-Stack Developer | Java Developer | ML-GEEK | Researcher | Teacher !! </marquee>
+### <pre>I'm a Full-Stack Developer | Java Developer | ML-GEEK | Researcher | Teacher !! </pre>
 
 <hr/>
-   <pre>              ✨    ### MY GitHub Profile   ✨        </pre>
-<hr style="color:red"/>
+  ### <pre>              ✨  MY GitHub Profile   ✨        </pre>
+<hr/>
   
 - 🔭 I’m currently working on [Java Zero 2 Hero Course][website]
 - 🌱 I’m currently learning EveryThing 😆
