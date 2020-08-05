@@ -4,7 +4,7 @@
 ### <pre>I'm a Full-Stack Developer | Java Developer | ML-GEEK | Researcher | Teacher !! </pre>
 
 <hr/>
-### <pre>          ✨  MY GitHub Profile   ✨       </pre>
+###        ✨  MY GitHub Profile   ✨      
 <hr/>
   
 - 🔭 I’m currently working on [Java Zero 2 Hero Course][website]
