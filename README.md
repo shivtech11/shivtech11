@@ -1,10 +1,10 @@
-### Hlo there,This is the SHIVam SHARMA - <a href="http://codingaliens.com">CodingAliens </a>👋
+### Hello Guys,This is the SHIVam SHARMA - <a href="http://codingaliens.com">CodingAliens </a>👋
 
 
 ### <pre>I'm a Full-Stack Developer | Java Developer | ML-GEEK | Researcher | Teacher !! </pre>
 
 <hr/>
-<pre>              ✨ <strong> MY GitHub Profile   ✨    </strong>    </pre>
+<pre>        <strong>      ✨  MY GitHub Profile   ✨    </strong>    </pre>
 <hr/>
   
 - 🔭 I’m currently working on [Java Zero 2 Hero Course][website]
