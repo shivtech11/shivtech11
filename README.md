@@ -3,10 +3,8 @@
 
 ### I'm a Full-Stack Developer | Java Developer | ML-GEEK | Researcher | Teacher !! 
 
-<br/>
-**shivtech11/shivtech11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<hr/>
+**shivtech11/shivtech11** is a ✨ MY GitHub Profile ✨ 
 
 - 🔭 I’m currently working on <a href="https://www.youtube.com/playlist?list=PLhvdldYcnZMkQXBwIQqNQWPxVM792O-FO">Java Zero 2 Hero Course</a>
 - 🌱 I’m currently learning EveryThing 😆
