@@ -72,7 +72,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivtech11)](https://github.com/shivtech11/github-readme-stats)
+---
 <img align="left" alt="Coding Aliens Github Stats" src="https://github-readme-stats.vercel.app/api?username=shivtech11&show_icons=true&hide_border=true" />
 
 [website]: http://codingaliens.com
