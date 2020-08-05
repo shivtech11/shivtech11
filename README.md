@@ -1,7 +1,7 @@
 ### Hlo there,This is the SHIVam SHARMA - <a href="http://codingaliens.com">CodingAliens </a>👋
 
 
-### I'm a Full-Stack Developer | Java Developer | ML-GEEK | Researcher | Teacher !! 
+### <marquee>I'm a Full-Stack Developer | Java Developer | ML-GEEK | Researcher | Teacher !! </marquee>
 
 <hr/>
    <pre><marquee>                  ✨    <strong> MY GitHub Profile <strong>    ✨   </marquee>      </pre>
