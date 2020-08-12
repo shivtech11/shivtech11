@@ -1,12 +1,13 @@
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/shivtech11/shivtech11)
 
+#  HIIII
 ### Hlo there,This is the SHIVam SHARMA - <a href="http://codingaliens.com">CodingAliens </a>👋
 
 
 ### <marquee>I'm a Full-Stack Developer | Java Developer | ML-GEEK | Researcher | Teacher !! </marquee>
 
 <hr/>
-   <pre><marquee>                  ✨    <strong> MY GitHub Profile <strong>    ✨   </marquee>      </pre>
+   <pre><marquee>✨    <strong> MY GitHub Profile <strong>    ✨   </marquee> </pre>
 <br/>
   
 - 🔭 I’m currently working on [Java Zero 2 Hero Course][website]
