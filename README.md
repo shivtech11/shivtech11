@@ -1,6 +1,6 @@
 ### Hello Guys,This is the SHIVam SHARMA - <a href="http://codingaliens.com">CodingAliens </a>👋
 
-### <pre>I'm a Full-Stack Developer | Java Developer | ML-GEEK | Researcher | Teacher !! </pre>
+### <pre>I'm a Full-Stack Developer | Java Programmer | ML-GEEK | Researcher !! </pre>
 
 <hr/>
 
