@@ -8,7 +8,7 @@
 
 <hr/>
   
-- 🔭 I’m currently working on [Java Zero 2 Hero Course][https://www.youtube.com/playlist?list=PLhvdldYcnZMmPvcyO3IVGUROoxWywhUZj]
+- 🔭 I’m currently working on [Java Zero 2 Hero Course](https://www.youtube.com/playlist?list=PLhvdldYcnZMmPvcyO3IVGUROoxWywhUZj)
 - 🌱 I’m currently learning EveryThing 😆
 - 👯 I’m looking to collaborate on with other content creators.
 - 🥅 2020 Goal: MAKE own community on YouTube.
