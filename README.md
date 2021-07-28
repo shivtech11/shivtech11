@@ -1,20 +1,19 @@
-### Hello EveryOne 👋,This is the SHIVam SHARMA - <a href="https://www.youtube.com/channel/UC2EF2l4DhSG3PVBXVyQhHfA">CodingAliens </a>
-
-### <pre>I'm a Full-Stack Developer | Java Programmer | ML-GEEK | Researcher !! </pre>
+### Hello EveryOne 👋,This is the SHIVam SHARMA - <a href="https://shivtech11.github.io/myResume/"> Portfolio </a>
+### <pre>I'm a Full-Stack Developer | Java Programmer | ML-GEEK | Researcher | Content Creator !! </pre>
 ### Quick Learner & Highly Passionate about Learning New Technologies🙂
-
+### My YouTube Channel <a href="https://www.youtube.com/c/CodingAliens"> CodingAliens </a>
 <hr/>
 
 ###  <pre>      ✨  MY GitHub Profile   ✨      </pre>
 
 <hr/>
   
-- 🔭 I’m currently working on [Java Zero 2 Hero Course][website]
+- 🔭 I’m currently working on [Java Zero 2 Hero Course][https://www.youtube.com/playlist?list=PLhvdldYcnZMmPvcyO3IVGUROoxWywhUZj]
 - 🌱 I’m currently learning EveryThing 😆
 - 👯 I’m looking to collaborate on with other content creators.
 - 🥅 2020 Goal: MAKE own community on YouTube.
 - 💬 Ask me about any Programming Language, Development ,my Researchs !!
-- 📫 How to reach me: www.codingaliens.com 
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/shivtech11/"> Linkdin/shivtech11 </a>
 - ⚡ Fun fact: Love Swimming , Fitness-Freak 
 
 <hr/>
